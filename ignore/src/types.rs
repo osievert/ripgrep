@@ -130,6 +130,7 @@ const DEFAULT_TYPES: &'static [(&'static str, &'static [&'static str])] = &[
     ("dart", &["*.dart"]),
     ("d", &["*.d"]),
     ("docker", &["*Dockerfile*"]),
+    ("deps", &["DEPS"]),
     ("elisp", &["*.el"]),
     ("elixir", &["*.ex", "*.eex", "*.exs"]),
     ("elm", &["*.elm"]),
